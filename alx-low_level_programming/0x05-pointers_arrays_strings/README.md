@@ -1,0 +1,1 @@
+function pointer and array include string codeing
